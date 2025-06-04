@@ -1,0 +1,8 @@
+{
+  "name": "w3schools-offline",
+  "version": "1.0.0",
+  "description": "Offline W3Schools clone using HTML, CSS, and JS only",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  }
+}
